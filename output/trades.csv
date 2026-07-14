@@ -1,0 +1,2 @@
+entry_time,exit_time,entry_price,exit_price,quantity,direction,pnl,pnl_pct,r_multiple,exit_reason,signal_score
+2025-01-13 09:37:00+00:00,2025-01-13 09:44:00+00:00,6009.067336128503,6007.314600731295,100,1,-175.27353972072888,-0.00029168177009255045,-0.4421846266379314,Signal: exit_long,25.0

@@ -1,0 +1,38 @@
+============================================================
+  INSTITUTIONAL TREND ENGINE — BACKTEST REPORT
+============================================================
+  Symbol: SYNTH-DEMO
+
+── OVERVIEW ──
+  Initial Capital:     $  100,000.00
+  Final Equity:        $   99,824.73
+  Total Return:               -0.18%
+  Max Drawdown:               -0.44%
+  Sharpe Ratio:                0.00
+
+── TRADE STATISTICS ──
+  Total Trades:                   1
+  Winning Trades:                 0
+  Losing Trades:                  1
+  Win Rate:                     0.0%
+  Profit Factor:               0.00
+
+── P&L BREAKDOWN ──
+  Total P&L:           $     -175.27
+  Average P&L:         $     -175.27
+  Average Win:         $        0.00
+  Average Loss:        $     -175.27
+
+── R-MULTIPLE ──
+  Average R:                  -0.44
+  Max R:                      -0.44
+  Min R:                      -0.44
+
+── TRADE LOG (last 10) ──
+  2025-01-13 09:37:00+00:00  LONG   entry=6009.07  exit=6007.31  P&L=$-175.27  R=-0.44  [Signal: exit_long]
+
+── SIGNALS SUMMARY ──
+  breakout_buy              1
+  exit_long                 1
+
+============================================================

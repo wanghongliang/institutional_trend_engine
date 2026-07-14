@@ -1,0 +1,93 @@
+================================================================
+  MOMENTUM ACCELERATION STRATEGY
+  (Momentum Breakout + Acceleration Trading)
+  Only catch the fastest, strongest main trend
+================================================================
+  Symbol: SPY
+  Extrema Order:         5
+  Consolidation Window:  20
+  Range Max:             70.00%
+  Velocity Min (ATR):    0.3
+  Accel Confirm Bars:    3
+  Accel Min (ATR):       0.1
+  Stop Loss:             0.5 ATR
+  Take Profit:           1.0 ATR
+  Risk:Reward:           1:2
+  Max Holding Bars:      20
+  Min Holding Bars:      2
+  Risk per Trade:        1.0%
+
+-- SIGNAL DETECTION --
+  Consolidation Zones:          12
+  Total Signals:                 9
+  LONG Signals:                  3
+  SHORT Signals:                 6
+
+-- OVERVIEW --
+  Initial Capital:     $  100,000.00
+  Final Equity:        $   96,972.26
+  Total Return:               -3.03%
+  Max Drawdown:               -3.94%
+  Sharpe Ratio:               -4.39
+
+-- TRADE STATISTICS --
+  Total Trades:                   9
+  Winning Trades:                 2
+  Losing Trades:                  7
+  Win Rate:                    22.2%
+  Profit Factor:               0.56
+  LONG Trades:                    3
+  SHORT Trades:                   6
+  Avg Holding Bars:             1.6
+
+-- EXIT ANALYSIS --
+  Stop Loss Exits:                7
+  Take Profit Exits:              2
+  Time Exits:                     0
+
+-- P&L BREAKDOWN --
+  Total P&L:           $   -3,027.74
+  Average P&L:         $     -336.42
+  Average Win:         $    1,938.13
+  Average Loss:        $     -986.28
+
+-- R-MULTIPLE (Risk:Reward = 1:2) --
+  Average R:                  -0.33
+  Max R:                       2.00
+  Min R:                      -1.00
+
+-- TRADE LOG (last 20) --
+  2025-01-13 12:19:00+00:00  SHORT  entry=5987.09  SL=5988.57  TP=5984.13  exit=5988.57  P&L=$-998.55  R=-1.00  hold=1b  [Stop Loss]
+  2025-01-13 13:06:00+00:00  LONG   entry=5981.29  SL=5979.50  TP=5984.87  exit=5979.50  P&L=$-989.60  R=-1.00  hold=2b  [Stop Loss]
+  2025-01-13 15:19:00+00:00  SHORT  entry=5964.87  SL=5966.41  TP=5961.78  exit=5966.41  P&L=$-979.57  R=-1.00  hold=1b  [Stop Loss]
+  2025-01-13 20:41:00+00:00  SHORT  entry=5950.40  SL=5951.95  TP=5947.30  exit=5951.95  P&L=$-969.94  R=-1.00  hold=1b  [Stop Loss]
+  2025-01-13 21:49:00+00:00  SHORT  entry=5912.80  SL=5914.43  TP=5909.54  exit=5909.54  P&L=$1919.51  R=2.00  hold=2b  [Take Profit]
+  2025-01-13 22:40:00+00:00  LONG   entry=5924.16  SL=5922.51  TP=5927.47  exit=5927.47  P&L=$1956.74  R=2.00  hold=2b  [Take Profit]
+  2025-01-13 23:05:00+00:00  SHORT  entry=5917.28  SL=5918.95  TP=5913.92  exit=5918.95  P&L=$-998.84  R=-1.00  hold=1b  [Stop Loss]
+  2025-01-14 00:43:00+00:00  LONG   entry=5942.67  SL=5940.95  TP=5946.12  exit=5940.95  P&L=$-989.15  R=-1.00  hold=3b  [Stop Loss]
+  2025-01-14 01:18:00+00:00  SHORT  entry=5938.04  SL=5939.55  TP=5935.03  exit=5939.55  P&L=$-978.34  R=-1.00  hold=1b  [Stop Loss]
+
+-- SIGNALS (last 15) --
+  2025-01-13 12:19:00+00:00  SHORT  price=5987.10  vel=-2.4984  accel=-2.0668  zone=[5987.75, 5998.38]  (13b)
+  2025-01-13 13:06:00+00:00  LONG   price=5981.28  vel=3.6667  accel=2.8062  zone=[5966.20, 5976.45]  (8b)
+  2025-01-13 15:19:00+00:00  SHORT  price=5964.88  vel=-3.4980  accel=-4.8517  zone=[5964.95, 5973.70]  (11b)
+  2025-01-13 20:41:00+00:00  SHORT  price=5950.41  vel=-2.5983  accel=-2.4652  zone=[5951.35, 5961.99]  (23b)
+  2025-01-13 21:49:00+00:00  SHORT  price=5912.81  vel=-4.4448  accel=-2.4051  zone=[5915.30, 5926.72]  (11b)
+  2025-01-13 22:40:00+00:00  LONG   price=5924.15  vel=1.3695  accel=2.1215  zone=[5912.81, 5923.61]  (8b)
+  2025-01-13 23:05:00+00:00  SHORT  price=5917.29  vel=-2.8158  accel=-2.1273  zone=[5917.86, 5929.33]  (10b)
+  2025-01-14 00:43:00+00:00  LONG   price=5942.66  vel=3.0853  accel=1.8162  zone=[5926.60, 5939.66]  (13b)
+  2025-01-14 01:18:00+00:00  SHORT  price=5938.05  vel=-1.7917  accel=-2.3641  zone=[5938.73, 5948.29]  (11b)
+
+-- CONSOLIDATION ZONES (last 10) --
+  bars [308-317]  high=5980.64  low=5969.48  range=0.187%  (10 bars)
+  bars [338-348]  high=5973.70  low=5964.95  range=0.147%  (11 bars)
+  bars [426-441]  high=5953.98  low=5941.35  range=0.212%  (16 bars)
+  bars [489-501]  high=5949.19  low=5935.45  range=0.231%  (13 bars)
+  bars [648-670]  high=5961.99  low=5951.35  range=0.179%  (23 bars)
+  bars [728-738]  high=5926.72  low=5915.30  range=0.193%  (11 bars)
+  bars [778-785]  high=5923.61  low=5912.81  range=0.182%  (8 bars)
+  bars [805-814]  high=5929.33  low=5917.86  range=0.194%  (10 bars)
+  bars [886-898]  high=5939.66  low=5926.60  range=0.220%  (13 bars)
+  bars [931-941]  high=5948.29  low=5938.73  range=0.161%  (11 bars)
+
+================================================================

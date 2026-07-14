@@ -1,0 +1,59 @@
+============================================================
+  SWING LOW REVERSAL STRATEGY — BACKTEST REPORT
+============================================================
+  Symbol: SPY
+  Swing Window:     3
+  ATR Period:       14
+  Stop Loss:        1.0 ATR
+  Take Profit:      3.0 ATR
+  Risk per Trade:   1.0%
+
+-- OVERVIEW --
+  Initial Capital:     $  100,000.00
+  Final Equity:        $   98,077.81
+  Total Return:               -1.92%
+  Max Drawdown:              -12.30%
+  Sharpe Ratio:               -1.48
+
+-- TRADE STATISTICS --
+  Total Trades:                  23
+  Winning Trades:                 5
+  Losing Trades:                 18
+  Win Rate:                    21.7%
+  Profit Factor:               0.81
+  Stop Loss Exits:               18
+  Take Profit Exits:              5
+
+-- P&L BREAKDOWN --
+  Total P&L:           $   -3,238.48
+  Average P&L:         $     -140.80
+  Average Win:         $    2,725.02
+  Average Loss:        $     -936.87
+
+-- R-MULTIPLE --
+  Average R:                  -0.13
+  Max R:                       3.00
+  Min R:                      -1.00
+
+-- TRADE LOG (last 15) --
+  2025-01-13 11:17:00+00:00  BUY  entry=5981.72  SL=5978.19  TP=5992.29  exit=5978.19  P&L=$-919.61  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 11:25:00+00:00  BUY  entry=5980.88  SL=5977.10  TP=5992.22  exit=5977.10  P&L=$-911.48  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 11:31:00+00:00  BUY  entry=5983.88  SL=5979.77  TP=5996.22  exit=5979.77  P&L=$-900.81  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 11:48:00+00:00  BUY  entry=5981.72  SL=5977.91  TP=5993.14  exit=5977.91  P&L=$-894.89  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 11:57:00+00:00  BUY  entry=5978.77  SL=5975.32  TP=5989.13  exit=5975.32  P&L=$-884.26  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:01:00+00:00  BUY  entry=5978.31  SL=5974.77  TP=5988.92  exit=5988.92  P&L=$2631.71  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 12:25:00+00:00  BUY  entry=5986.51  SL=5983.26  TP=5996.29  exit=5996.29  P&L=$2706.49  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 12:38:00+00:00  BUY  entry=5997.28  SL=5994.20  TP=6006.51  exit=5994.20  P&L=$-929.59  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:43:00+00:00  BUY  entry=5994.77  SL=5991.83  TP=6003.59  exit=5991.83  P&L=$-920.08  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:53:00+00:00  BUY  entry=5991.90  SL=5989.24  TP=5999.90  exit=5989.24  P&L=$-911.31  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:59:00+00:00  BUY  entry=5991.22  SL=5988.43  TP=5999.58  exit=5999.58  P&L=$2708.95  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 13:12:00+00:00  BUY  entry=6006.91  SL=6003.97  TP=6015.76  exit=6003.97  P&L=$-928.34  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 13:32:00+00:00  BUY  entry=5999.76  SL=5996.71  TP=6008.89  exit=6008.89  P&L=$2759.71  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 14:01:00+00:00  BUY  entry=5997.47  SL=5994.10  TP=6007.55  exit=5994.10  P&L=$-948.05  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 14:08:00+00:00  BUY  entry=5997.18  SL=5994.19  TP=6006.16  exit=6006.16  P&L=$2818.24  R=3.00  [Take Profit (2 ATR)]
+
+-- SIGNALS SUMMARY --
+  Total BUY signals:            31
+  Swing lows detected:          31
+
+============================================================

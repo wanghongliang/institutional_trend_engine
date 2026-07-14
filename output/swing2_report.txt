@@ -1,0 +1,76 @@
+================================================================
+  SWING LOW ELEVATED STRATEGY — 底部抬高买入策略
+  (Buy when current swing low > previous 2 swing lows)
+================================================================
+  Symbol: SPY
+  Swing Window:        3
+  ATR Period:          14
+  Stop Loss:           1.0 ATR
+  Take Profit:         3.0 ATR
+  Require Prev Lows:   2
+  Risk per Trade:      1.0%
+
+-- SIGNAL FILTERING --
+  Total Swing Lows:                48
+  Elevated (BUY):                  14
+  Rejected:                        34
+  Filter Rate:                  70.8%
+
+-- OVERVIEW --
+  Initial Capital:     $  100,000.00
+  Final Equity:        $   95,948.57
+  Total Return:               -4.05%
+  Max Drawdown:               -7.86%
+  Sharpe Ratio:               -3.60
+
+-- TRADE STATISTICS --
+  Total Trades:                  12
+  Winning Trades:                 2
+  Losing Trades:                 10
+  Win Rate:                    16.7%
+  Profit Factor:               0.60
+  Stop Loss Exits:               10
+  Take Profit Exits:              2
+
+-- P&L BREAKDOWN --
+  Total P&L:           $   -4,051.43
+  Average P&L:         $     -337.62
+  Average Win:         $    2,990.71
+  Average Loss:        $   -1,003.28
+
+-- R-MULTIPLE (Risk:Reward = 1:2) --
+  Average R:                  -0.33
+  Max R:                       3.00
+  Min R:                      -1.00
+
+-- TRADE LOG (last 20) --
+  2025-01-13 10:16:00+00:00  BUY  entry=5992.14  SL=5988.95  TP=6001.74  exit=6001.74  P&L=$2993.07  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 10:32:00+00:00  BUY  entry=6003.70  SL=6000.51  TP=6013.26  exit=6000.51  P&L=$-1029.41  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 10:56:00+00:00  BUY  entry=6001.04  SL=5997.90  TP=6010.46  exit=5997.90  P&L=$-1017.45  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 11:23:00+00:00  BUY  entry=6022.87  SL=6019.99  TP=6031.49  exit=6019.99  P&L=$-1006.63  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:04:00+00:00  BUY  entry=6025.16  SL=6021.70  TP=6035.53  exit=6035.53  P&L=$2988.34  R=3.00  [Take Profit (2 ATR)]
+  2025-01-13 12:21:00+00:00  BUY  entry=6036.69  SL=6033.41  TP=6046.54  exit=6033.41  P&L=$-1027.66  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 12:49:00+00:00  BUY  entry=6041.90  SL=6038.82  TP=6051.14  exit=6038.82  P&L=$-1016.34  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 14:08:00+00:00  BUY  entry=6029.92  SL=6026.49  TP=6040.18  exit=6026.49  P&L=$-1006.28  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 14:35:00+00:00  BUY  entry=6025.13  SL=6022.16  TP=6034.04  exit=6022.16  P&L=$-997.55  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 15:18:00+00:00  BUY  entry=6017.32  SL=6013.69  TP=6028.20  exit=6013.69  P&L=$-986.37  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 16:03:00+00:00  BUY  entry=6010.71  SL=6007.72  TP=6019.67  exit=6007.72  P&L=$-976.21  R=-1.00  [Stop Loss (1 ATR)]
+  2025-01-13 17:19:00+00:00  BUY  entry=6000.77  SL=5997.50  TP=6010.59  exit=5997.50  P&L=$-968.95  R=-1.00  [Stop Loss (1 ATR)]
+
+-- ELEVATED SWING LOWS (BUY signals, last 15) --
+  2025-01-13 10:16:00+00:00  swing_low=5986.62  prev_lows=[5983.369582399591, 5985.205686761032]  entry=5992.13  SL=5988.94  TP=6001.73
+  2025-01-13 10:32:00+00:00  swing_low=6000.70  prev_lows=[5985.205686761032, 5986.620677339009]  entry=6003.69  SL=6000.50  TP=6013.25
+  2025-01-13 10:56:00+00:00  swing_low=6000.37  prev_lows=[5998.8635716740255, 5999.638746525214]  entry=6001.03  SL=5997.89  TP=6010.45
+  2025-01-13 11:23:00+00:00  swing_low=6020.32  prev_lows=[6000.372463438971, 5995.230394088784]  entry=6022.86  SL=6019.98  TP=6031.48
+  2025-01-13 12:04:00+00:00  swing_low=6020.23  prev_lows=[6018.505002683337, 6015.368384897053]  entry=6025.15  SL=6021.69  TP=6035.52
+  2025-01-13 12:21:00+00:00  swing_low=6032.32  prev_lows=[6015.368384897053, 6020.233727452341]  entry=6036.68  SL=6033.40  TP=6046.53
+  2025-01-13 12:49:00+00:00  swing_low=6036.06  prev_lows=[6029.846937546795, 6027.508576908876]  entry=6041.89  SL=6038.81  TP=6051.13
+  2025-01-13 12:59:00+00:00  swing_low=6042.69  prev_lows=[6027.508576908876, 6036.063995937128]  entry=6045.66  SL=6042.66  TP=6054.65
+  2025-01-13 13:12:00+00:00  swing_low=6042.96  prev_lows=[6042.686406022501, 6042.516866504166]  entry=6044.82  SL=6041.81  TP=6053.85
+  2025-01-13 14:08:00+00:00  swing_low=6025.79  prev_lows=[6024.10482069217, 6025.534285305397]  entry=6029.91  SL=6026.48  TP=6040.17
+  2025-01-13 14:35:00+00:00  swing_low=6021.55  prev_lows=[6019.513238327969, 6019.953524105173]  entry=6025.12  SL=6022.15  TP=6034.03
+  2025-01-13 15:18:00+00:00  swing_low=6011.12  prev_lows=[6009.312478585829, 6004.254646328303]  entry=6017.31  SL=6013.68  TP=6028.19
+  2025-01-13 16:03:00+00:00  swing_low=6009.09  prev_lows=[6007.125183853511, 6004.251184802591]  entry=6010.70  SL=6007.71  TP=6019.66
+  2025-01-13 17:19:00+00:00  swing_low=5995.80  prev_lows=[5992.538442923989, 5989.575904702091]  entry=6000.76  SL=5997.49  TP=6010.58
+
+================================================================

@@ -1,0 +1,630 @@
+2026-07-03 08:37:50 | __main__             | INFO    | ============================================================
+2026-07-03 08:37:50 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:37:50 | __main__             | INFO    | ============================================================
+2026-07-03 08:37:50 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:37:57 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:37:57 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:37:57 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 0
+2026-07-03 08:37:58 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:37:58 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:37:58 | backtest.engine      | INFO    | Backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 08:37:58 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:37:58 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 0
+2026-07-03 08:38:00 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:38:00 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:38:02 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:38:02 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:38:02 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:39:19 | __main__             | INFO    | ============================================================
+2026-07-03 08:39:19 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:39:19 | __main__             | INFO    | ============================================================
+2026-07-03 08:39:19 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:39:20 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:39:20 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:39:20 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 0
+2026-07-03 08:39:22 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:39:22 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:39:22 | backtest.engine      | INFO    | Backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 08:39:22 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:39:22 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 0
+2026-07-03 08:39:23 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:39:23 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:39:25 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:39:25 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:39:25 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:40:46 | __main__             | INFO    | ============================================================
+2026-07-03 08:40:46 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:40:46 | __main__             | INFO    | ============================================================
+2026-07-03 08:40:46 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:40:47 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:40:47 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:40:47 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:40:49 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:40:49 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:40:49 | backtest.engine      | INFO    | Backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 08:40:49 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:40:49 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:40:50 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:40:50 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:40:52 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:40:52 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:40:52 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:40:59 | __main__             | INFO    | ============================================================
+2026-07-03 08:40:59 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:40:59 | __main__             | INFO    | ============================================================
+2026-07-03 08:40:59 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:40:59 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:40:59 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:40:59 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:41:01 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:41:01 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:41:01 | backtest.engine      | INFO    | Backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 08:41:01 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:41:01 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:41:02 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:41:02 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:41:04 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:41:04 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:41:04 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:41:19 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:41:19 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:41:20 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:41:20 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:42:26 | __main__             | INFO    | ============================================================
+2026-07-03 08:42:26 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:42:26 | __main__             | INFO    | ============================================================
+2026-07-03 08:42:26 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:42:27 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:42:27 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:42:27 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:42:28 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:42:28 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:42:28 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99820.75, return=-0.18%
+2026-07-03 08:42:28 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 08:42:28 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:42:28 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 28
+2026-07-03 08:42:30 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:42:30 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:42:31 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:42:31 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:42:31 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:45:01 | __main__             | INFO    | ============================================================
+2026-07-03 08:45:01 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:45:01 | __main__             | INFO    | ============================================================
+2026-07-03 08:45:01 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:45:02 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:45:02 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:45:02 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 08:45:04 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:45:04 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:45:04 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 08:45:04 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 08:45:04 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:45:04 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 08:45:05 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:45:05 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:45:06 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:45:06 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:45:06 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:45:23 | backtest.engine      | INFO    | Starting backtest on 1000 bars...
+2026-07-03 08:45:23 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:45:23 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 78
+2026-07-03 08:45:27 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:45:27 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:45:27 | backtest.engine      | INFO    | Backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 08:45:27 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:45:27 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 78
+2026-07-03 08:45:30 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:45:30 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:45:32 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:45:32 | main                 | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:45:32 | main                 | INFO    | All outputs saved to output/
+2026-07-03 08:45:54 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:45:54 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 209
+2026-07-03 08:45:57 | strategy.breakout    | INFO    | Generated 0 signals
+2026-07-03 08:45:57 | strategy.signal_engine | INFO    | Signal engine complete: 0 signals generated
+2026-07-03 08:46:41 | __main__             | INFO    | ============================================================
+2026-07-03 08:46:41 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:46:41 | __main__             | INFO    | ============================================================
+2026-07-03 08:46:41 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 08:46:42 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 08:46:42 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:46:42 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 08:46:43 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:46:43 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:46:43 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 08:46:43 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 08:46:43 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 08:46:43 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 08:46:44 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 08:46:44 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 08:46:45 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:46:45 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:46:45 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:46:54 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 08:46:54 | backtest.engine      | INFO    | Starting backtest on 1000 bars...
+2026-07-03 08:46:54 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:46:54 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 74
+2026-07-03 08:46:56 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 08:46:56 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 08:46:56 | backtest.engine      | INFO    | Backtest complete: 2 trades, final equity=99360.55, return=-0.64%
+2026-07-03 08:46:56 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 08:46:56 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:46:56 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 74
+2026-07-03 08:46:59 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 08:46:59 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 08:47:00 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:47:00 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:47:00 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 08:50:05 | __main__             | INFO    | ============================================================
+2026-07-03 08:50:05 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 08:50:05 | __main__             | INFO    | ============================================================
+2026-07-03 08:50:05 | __main__             | INFO    | Generated 1000 bars of synthetic data
+2026-07-03 08:50:05 | backtest.engine      | INFO    | Starting backtest on 1000 bars...
+2026-07-03 08:50:05 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:50:05 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 74
+2026-07-03 08:50:08 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 08:50:08 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 08:50:08 | backtest.engine      | INFO    | Backtest complete: 2 trades, final equity=99360.55, return=-0.64%
+2026-07-03 08:50:08 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 08:50:08 | strategy.signal_engine | INFO    | Running signal engine on 1000 bars...
+2026-07-03 08:50:08 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 74
+2026-07-03 08:50:10 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 08:50:10 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 08:50:12 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 08:50:12 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 08:50:12 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 10:26:39 | __main__             | INFO    | ============================================================
+2026-07-03 10:26:39 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 10:26:39 | __main__             | INFO    | ============================================================
+2026-07-03 10:26:39 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 10:26:40 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 10:26:40 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:26:40 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 10:26:40 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 10:26:40 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 10:26:40 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 10:26:40 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 10:26:40 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:26:40 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 10:26:41 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 10:26:41 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 10:26:43 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 10:26:43 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 10:26:43 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 10:29:47 | __main__             | INFO    | ============================================================
+2026-07-03 10:29:47 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 10:29:47 | __main__             | INFO    | ============================================================
+2026-07-03 10:29:47 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 10:29:47 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 10:29:47 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:29:47 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 10:29:48 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 10:29:48 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 10:29:48 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 10:30:06 | __main__             | INFO    | ============================================================
+2026-07-03 10:30:06 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 10:30:06 | __main__             | INFO    | ============================================================
+2026-07-03 10:30:06 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 10:30:06 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 10:30:06 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:30:06 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 10:30:07 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 10:30:07 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 10:30:07 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 10:30:07 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 10:30:07 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:30:07 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 10:30:08 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 10:30:08 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 10:30:09 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 10:30:09 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 10:30:09 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 10:32:02 | __main__             | INFO    | ============================================================
+2026-07-03 10:32:02 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 10:32:02 | __main__             | INFO    | ============================================================
+2026-07-03 10:32:02 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 10:32:02 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 10:32:02 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:32:02 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 44
+2026-07-03 10:32:03 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 10:32:03 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 10:32:03 | backtest.engine      | INFO    | Backtest complete: 2 trades, final equity=99482.65, return=-0.52%
+2026-07-03 10:32:03 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 10:32:03 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:32:03 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 44
+2026-07-03 10:32:04 | strategy.breakout    | INFO    | Generated 4 signals
+2026-07-03 10:32:04 | strategy.signal_engine | INFO    | Signal engine complete: 4 signals generated
+2026-07-03 10:32:05 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 10:32:05 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 10:32:05 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 10:58:46 | __main__             | INFO    | ============================================================
+2026-07-03 10:58:46 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 10:58:46 | __main__             | INFO    | ============================================================
+2026-07-03 10:58:46 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 10:58:47 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 10:58:47 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:58:47 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 44
+2026-07-03 10:58:47 | strategy.breakout    | INFO    | Generated 8 signals
+2026-07-03 10:58:47 | strategy.signal_engine | INFO    | Signal engine complete: 8 signals generated
+2026-07-03 10:58:54 | backtest.engine      | INFO    | Backtest complete: 4 trades, final equity=100509.46, return=0.51%
+2026-07-03 10:58:54 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 10:58:54 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 10:58:54 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 44
+2026-07-03 10:58:55 | strategy.breakout    | INFO    | Generated 8 signals
+2026-07-03 10:58:55 | strategy.signal_engine | INFO    | Signal engine complete: 8 signals generated
+2026-07-03 10:58:56 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 10:58:56 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 10:58:56 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 11:25:48 | __main__             | INFO    | ============================================================
+2026-07-03 11:25:48 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 11:25:48 | __main__             | INFO    | ============================================================
+2026-07-03 11:25:48 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 11:25:49 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 11:25:49 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 11:25:49 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 51
+2026-07-03 11:25:50 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:25:50 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:25:50 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99682.18, return=-0.32%
+2026-07-03 11:25:50 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 11:25:50 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 11:25:50 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 51
+2026-07-03 11:25:51 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:25:51 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:25:52 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 11:25:52 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 11:25:52 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 11:29:56 | __main__             | INFO    | ============================================================
+2026-07-03 11:29:56 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 11:29:56 | __main__             | INFO    | ============================================================
+2026-07-03 11:29:56 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 11:29:56 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 11:29:56 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 11:29:56 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 11:29:57 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:29:57 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:29:57 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 11:29:57 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 11:29:57 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 11:29:57 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 11:29:58 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:29:58 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:30:00 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 11:30:00 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 11:30:00 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 11:35:24 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 11:35:25 | backtest.swing_engine | INFO    | Starting Swing Low backtest on 1000 bars...
+2026-07-03 11:35:25 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 99 swing lows detected, 99 BUY signals generated
+2026-07-03 11:35:25 | backtest.swing_engine | INFO    | Swing Low backtest complete: 83 trades, final equity=97233.67, return=-2.77%
+2026-07-03 11:35:25 | __main__             | INFO    | Report saved to output\swing_report.txt
+2026-07-03 11:35:26 | __main__             | INFO    | Trade log saved to output\swing_trades.csv
+2026-07-03 11:35:26 | __main__             | INFO    | Signals saved to output\swing_signals.csv
+2026-07-03 11:35:26 | __main__             | INFO    | Equity curve saved to output\swing_equity.csv
+2026-07-03 11:35:27 | visualization.swing_chart | INFO    | Swing chart saved to output\swing_chart.png
+2026-07-03 11:35:27 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 11:37:31 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 11 swing lows detected, 11 BUY signals generated
+2026-07-03 11:37:31 | backtest.swing_engine | INFO    | Starting Swing Low backtest on 100 bars...
+2026-07-03 11:37:31 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 10 swing lows detected, 10 BUY signals generated
+2026-07-03 11:37:31 | backtest.swing_engine | INFO    | Swing Low backtest complete: 9 trades, final equity=94124.16, return=-5.88%
+2026-07-03 11:37:40 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 11:37:40 | backtest.engine      | INFO    | Starting backtest on 300 bars...
+2026-07-03 11:37:40 | strategy.signal_engine | INFO    | Running signal engine on 300 bars...
+2026-07-03 11:37:40 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 23
+2026-07-03 11:37:41 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:37:41 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:37:41 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99824.73, return=-0.18%
+2026-07-03 11:37:41 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 11:37:41 | strategy.signal_engine | INFO    | Running signal engine on 300 bars...
+2026-07-03 11:37:41 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 23
+2026-07-03 11:37:41 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 11:37:41 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 11:37:43 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 11:37:43 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 11:37:43 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:07:05 | __main__             | INFO    | ============================================================
+2026-07-03 13:07:05 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 13:07:05 | __main__             | INFO    | ============================================================
+2026-07-03 13:07:05 | __main__             | INFO    | Generated 500 bars of synthetic data
+2026-07-03 13:07:06 | backtest.engine      | INFO    | Starting backtest on 500 bars...
+2026-07-03 13:07:06 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 13:07:06 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 13:07:07 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 13:07:07 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 13:07:07 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99514.97, return=-0.49%
+2026-07-03 13:07:07 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 13:07:07 | strategy.signal_engine | INFO    | Running signal engine on 500 bars...
+2026-07-03 13:07:07 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 30
+2026-07-03 13:07:08 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 13:07:08 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 13:07:09 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 13:07:09 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 13:07:09 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:09:17 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:09:17 | backtest.swing_engine | INFO    | Starting Swing Low backtest on 1000 bars...
+2026-07-03 13:09:17 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 99 swing lows detected, 99 BUY signals generated
+2026-07-03 13:09:17 | backtest.swing_engine | INFO    | Swing Low backtest complete: 83 trades, final equity=97233.67, return=-2.77%
+2026-07-03 13:09:17 | __main__             | INFO    | Report saved to output\swing_report.txt
+2026-07-03 13:09:17 | __main__             | INFO    | Trade log saved to output\swing_trades.csv
+2026-07-03 13:09:17 | __main__             | INFO    | Signals saved to output\swing_signals.csv
+2026-07-03 13:09:17 | __main__             | INFO    | Equity curve saved to output\swing_equity.csv
+2026-07-03 13:09:19 | visualization.swing_chart | INFO    | Swing chart saved to output\swing_chart.png
+2026-07-03 13:09:19 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:18:03 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:18:03 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 13:18:03 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 13:18:04 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 29 trades, final equity=97749.07, return=-2.25%
+2026-07-03 13:18:04 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 13:18:04 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 13:18:04 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 13:18:04 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 13:18:04 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 13:18:05 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 13:18:05 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:18:34 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:18:34 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 13:18:34 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 13:18:34 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 29 trades, final equity=97749.07, return=-2.25%
+2026-07-03 13:18:34 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 13:18:34 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 13:18:34 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 13:18:34 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 13:18:34 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 13:18:35 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 13:18:35 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:18:41 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:18:41 | backtest.swing_engine | INFO    | Starting Swing Low backtest on 300 bars...
+2026-07-03 13:18:41 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 31 swing lows detected, 31 BUY signals generated
+2026-07-03 13:18:41 | backtest.swing_engine | INFO    | Swing Low backtest complete: 28 trades, final equity=94298.64, return=-5.70%
+2026-07-03 13:18:41 | __main__             | INFO    | Report saved to output\swing_report.txt
+2026-07-03 13:18:41 | __main__             | INFO    | Trade log saved to output\swing_trades.csv
+2026-07-03 13:18:42 | __main__             | INFO    | Signals saved to output\swing_signals.csv
+2026-07-03 13:18:42 | __main__             | INFO    | Equity curve saved to output\swing_equity.csv
+2026-07-03 13:18:42 | visualization.swing_chart | INFO    | Swing chart saved to output\swing_chart.png
+2026-07-03 13:18:42 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:20:22 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:20:22 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 13:20:22 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 13:20:22 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 29 trades, final equity=97749.07, return=-2.25%
+2026-07-03 13:20:22 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 13:20:22 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 13:20:22 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 13:20:22 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 13:20:22 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 13:20:23 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 13:20:23 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:25:20 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:25:21 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 13:25:21 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 13:25:21 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 28 trades, final equity=99569.72, return=-0.43%
+2026-07-03 13:25:21 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 13:25:21 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 13:25:21 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 13:25:21 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 13:25:21 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 13:25:22 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 13:25:22 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 13:56:34 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 13:56:34 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 13:56:35 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 13:56:35 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 28 trades, final equity=99569.72, return=-0.43%
+2026-07-03 13:56:35 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 13:56:35 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 13:56:35 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 13:56:35 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 13:56:35 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 13:56:36 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 13:56:36 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:26:23 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:26:24 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 14:26:24 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 14:26:24 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 28 trades, final equity=99569.72, return=-0.43%
+2026-07-03 14:26:24 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 14:26:24 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 14:26:24 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 14:26:24 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 14:26:24 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 14:26:25 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 14:26:25 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:27:27 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:27:27 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 14:27:27 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 14:27:27 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 29 trades, final equity=97749.07, return=-2.25%
+2026-07-03 14:27:27 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 14:27:27 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 14:27:27 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 14:27:27 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 14:27:27 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 14:27:28 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 14:27:28 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:27:37 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:27:38 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 14:27:38 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 14:27:38 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 26 trades, final equity=93784.21, return=-6.22%
+2026-07-03 14:27:38 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 14:27:38 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 14:27:38 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 14:27:38 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 14:27:38 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 14:27:39 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 14:27:39 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:27:50 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:27:51 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 1000 bars...
+2026-07-03 14:27:51 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 99 swing lows, 34 BUY (底部抬高), 65 rejected
+2026-07-03 14:27:51 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 28 trades, final equity=99569.72, return=-0.43%
+2026-07-03 14:27:51 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 14:27:51 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 14:27:51 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 14:27:51 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 14:27:51 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 14:27:52 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 14:27:52 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:48:06 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:48:08 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 14:48:08 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 54 swing highs, 59 swing lows
+2026-07-03 14:48:08 | strategy.momentum_acceleration | INFO    | Detected 1 consolidation zones
+2026-07-03 14:48:08 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 0 signals (0 LONG, 0 SHORT) from 1 consolidation zones
+2026-07-03 14:48:08 | backtest.momentum_engine | INFO    | Momentum backtest complete: 0 trades, final equity=100000.00, return=0.00%
+2026-07-03 14:48:08 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 14:48:08 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 14:48:08 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 14:48:09 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 14:48:09 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:51:08 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:51:10 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 14:51:10 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 54 swing highs, 59 swing lows
+2026-07-03 14:51:10 | strategy.momentum_acceleration | INFO    | Detected 10 consolidation zones
+2026-07-03 14:51:10 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 8 signals (6 LONG, 2 SHORT) from 10 consolidation zones
+2026-07-03 14:51:10 | backtest.momentum_engine | INFO    | Momentum backtest complete: 8 trades, final equity=103976.90, return=3.98%
+2026-07-03 14:51:10 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 14:51:10 | __main__             | INFO    | Trade log saved to output\momentum_trades.csv
+2026-07-03 14:51:10 | __main__             | INFO    | Signals saved to output\momentum_signals.csv
+2026-07-03 14:51:10 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 14:51:10 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 14:51:11 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 14:51:11 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:53:41 | __main__             | INFO    | ============================================================
+2026-07-03 14:53:41 | __main__             | INFO    |   INSTITUTIONAL TREND ENGINE — DEMO MODE
+2026-07-03 14:53:41 | __main__             | INFO    | ============================================================
+2026-07-03 14:53:41 | __main__             | INFO    | Generated 300 bars of synthetic data
+2026-07-03 14:53:41 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:53:41 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 14:53:42 | backtest.engine      | INFO    | Starting backtest on 300 bars...
+2026-07-03 14:53:42 | strategy.signal_engine | INFO    | Running signal engine on 300 bars...
+2026-07-03 14:53:42 | backtest.swing_engine | INFO    | Starting Swing Low backtest on 300 bars...
+2026-07-03 14:53:42 | strategy.swing_low_strategy | INFO    | SwingLowStrategy: 31 swing lows detected, 31 BUY signals generated
+2026-07-03 14:53:42 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 23
+2026-07-03 14:53:42 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 300 bars...
+2026-07-03 14:53:42 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 31 swing lows, 8 BUY (底部抬高), 23 rejected
+2026-07-03 14:53:42 | backtest.swing_engine | INFO    | Swing Low backtest complete: 23 trades, final equity=98077.81, return=-1.92%
+2026-07-03 14:53:42 | __main__             | INFO    | Report saved to output\swing_report.txt
+2026-07-03 14:53:42 | __main__             | INFO    | Trade log saved to output\swing_trades.csv
+2026-07-03 14:53:42 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 7 trades, final equity=96980.18, return=-3.02%
+2026-07-03 14:53:42 | __main__             | INFO    | Signals saved to output\swing_signals.csv
+2026-07-03 14:53:42 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 14:53:42 | __main__             | INFO    | Equity curve saved to output\swing_equity.csv
+2026-07-03 14:53:42 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 14:53:42 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 14:53:42 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 14:53:42 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 14:53:42 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 14:53:42 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 14:53:42 | backtest.engine      | INFO    | Backtest complete: 1 trades, final equity=99824.73, return=-0.18%
+2026-07-03 14:53:42 | __main__             | INFO    | Trade log saved to output\trades.csv
+2026-07-03 14:53:42 | strategy.signal_engine | INFO    | Running signal engine on 300 bars...
+2026-07-03 14:53:42 | strategy.signal_engine | INFO    | Trend score computed. Turning points: 23
+2026-07-03 14:53:43 | strategy.breakout    | INFO    | Generated 2 signals
+2026-07-03 14:53:43 | strategy.signal_engine | INFO    | Signal engine complete: 2 signals generated
+2026-07-03 14:53:43 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 14:53:43 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:53:43 | visualization.swing_chart | INFO    | Swing chart saved to output\swing_chart.png
+2026-07-03 14:53:43 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 14:53:44 | visualization.chart  | INFO    | Chart saved to output\chart.png
+2026-07-03 14:53:44 | __main__             | INFO    | Equity curve saved to output\equity_curve.csv
+2026-07-03 14:53:44 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:06:32 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:06:40 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 15:06:40 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 54 swing highs, 59 swing lows
+2026-07-03 15:06:40 | strategy.momentum_acceleration | INFO    | Detected 10 consolidation zones
+2026-07-03 15:06:40 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 8 signals (6 LONG, 2 SHORT) from 10 consolidation zones
+2026-07-03 15:06:40 | backtest.momentum_engine | INFO    | Momentum backtest complete: 8 trades, final equity=103976.90, return=3.98%
+2026-07-03 15:06:40 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 15:06:40 | __main__             | INFO    | Trade log saved to output\momentum_trades.csv
+2026-07-03 15:06:40 | __main__             | INFO    | Signals saved to output\momentum_signals.csv
+2026-07-03 15:06:40 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 15:06:40 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 15:06:41 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 15:06:41 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:07:47 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:07:50 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 15:07:50 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 65 swing highs, 59 swing lows
+2026-07-03 15:07:50 | strategy.momentum_acceleration | INFO    | Detected 10 consolidation zones
+2026-07-03 15:07:50 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 10 signals (7 LONG, 3 SHORT) from 10 consolidation zones
+2026-07-03 15:07:50 | backtest.momentum_engine | INFO    | Momentum backtest complete: 10 trades, final equity=104995.08, return=5.00%
+2026-07-03 15:07:50 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 15:07:50 | __main__             | INFO    | Trade log saved to output\momentum_trades.csv
+2026-07-03 15:07:50 | __main__             | INFO    | Signals saved to output\momentum_signals.csv
+2026-07-03 15:07:50 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 15:07:50 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 15:07:51 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 15:07:51 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:09:27 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:09:29 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 15:09:29 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 67 swing highs, 59 swing lows
+2026-07-03 15:09:29 | strategy.momentum_acceleration | INFO    | Detected 8 consolidation zones
+2026-07-03 15:09:29 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 8 signals (4 LONG, 4 SHORT) from 8 consolidation zones
+2026-07-03 15:09:29 | backtest.momentum_engine | INFO    | Momentum backtest complete: 8 trades, final equity=97952.03, return=-2.05%
+2026-07-03 15:09:29 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 15:09:29 | __main__             | INFO    | Trade log saved to output\momentum_trades.csv
+2026-07-03 15:09:29 | __main__             | INFO    | Signals saved to output\momentum_signals.csv
+2026-07-03 15:09:29 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 15:09:29 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 15:09:30 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 15:09:30 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:11:43 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:11:45 | backtest.momentum_engine | INFO    | Starting Momentum Acceleration backtest on 1000 bars...
+2026-07-03 15:11:45 | strategy.momentum_acceleration | INFO    | argrelextrema (order=5): 63 swing highs, 69 swing lows
+2026-07-03 15:11:45 | strategy.momentum_acceleration | INFO    | Detected 12 consolidation zones
+2026-07-03 15:11:45 | strategy.momentum_acceleration | INFO    | MomentumAcceleration: 9 signals (3 LONG, 6 SHORT) from 12 consolidation zones
+2026-07-03 15:11:45 | backtest.momentum_engine | INFO    | Momentum backtest complete: 9 trades, final equity=96972.26, return=-3.03%
+2026-07-03 15:11:45 | __main__             | INFO    | Report saved to output\momentum_report.txt
+2026-07-03 15:11:45 | __main__             | INFO    | Trade log saved to output\momentum_trades.csv
+2026-07-03 15:11:45 | __main__             | INFO    | Signals saved to output\momentum_signals.csv
+2026-07-03 15:11:45 | __main__             | INFO    | Consolidation zones saved to output\momentum_zones.csv
+2026-07-03 15:11:45 | __main__             | INFO    | Equity curve saved to output\momentum_equity.csv
+2026-07-03 15:11:46 | visualization.momentum_chart | INFO    | Momentum chart saved to output\momentum_chart.png
+2026-07-03 15:11:46 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:12:37 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:12:38 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 500 bars...
+2026-07-03 15:12:38 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 55 swing lows, 17 BUY (底部抬高), 38 rejected
+2026-07-03 15:12:38 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 13 trades, final equity=95140.42, return=-4.86%
+2026-07-03 15:12:38 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 15:12:38 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 15:12:38 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 15:12:38 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 15:12:38 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 15:12:39 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 15:12:39 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:13:07 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:13:08 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 500 bars...
+2026-07-03 15:13:08 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 48 swing lows, 17 BUY (底部抬高), 31 rejected
+2026-07-03 15:13:08 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 14 trades, final equity=97838.58, return=-2.16%
+2026-07-03 15:13:08 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 15:13:08 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 15:13:08 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 15:13:08 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 15:13:08 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 15:13:09 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 15:13:09 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:13:35 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:13:36 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 500 bars...
+2026-07-03 15:13:36 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 47 swing lows, 18 BUY (底部抬高), 29 rejected
+2026-07-03 15:13:36 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 12 trades, final equity=95960.20, return=-4.04%
+2026-07-03 15:13:36 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 15:13:36 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 15:13:36 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 15:13:36 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 15:13:36 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 15:13:37 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 15:13:37 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:13:44 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:13:45 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 500 bars...
+2026-07-03 15:13:45 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 55 swing lows, 17 BUY (底部抬高), 38 rejected
+2026-07-03 15:13:45 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 13 trades, final equity=95140.42, return=-4.86%
+2026-07-03 15:13:45 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 15:13:45 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 15:13:45 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 15:13:45 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 15:13:45 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 15:13:46 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 15:13:46 | __main__             | INFO    | All outputs saved to output/
+2026-07-03 15:13:55 | __main__             | INFO    | No data file specified — using synthetic data
+2026-07-03 15:13:56 | backtest.swing_elevated_engine | INFO    | Starting Swing Low Elevated backtest on 500 bars...
+2026-07-03 15:13:56 | strategy.swing_low_elevated | INFO    | SwingLowElevated: 48 swing lows, 14 BUY (底部抬高), 34 rejected
+2026-07-03 15:13:56 | backtest.swing_elevated_engine | INFO    | Swing Elevated backtest complete: 12 trades, final equity=95948.57, return=-4.05%
+2026-07-03 15:13:56 | __main__             | INFO    | Report saved to output\swing2_report.txt
+2026-07-03 15:13:56 | __main__             | INFO    | Trade log saved to output\swing2_trades.csv
+2026-07-03 15:13:56 | __main__             | INFO    | All signals saved to output\swing2_all_signals.csv
+2026-07-03 15:13:56 | __main__             | INFO    | BUY signals saved to output\swing2_buy_signals.csv
+2026-07-03 15:13:56 | __main__             | INFO    | Equity curve saved to output\swing2_equity.csv
+2026-07-03 15:13:57 | visualization.swing_elevated_chart | INFO    | Elevated swing chart saved to output\swing2_chart.png
+2026-07-03 15:13:57 | __main__             | INFO    | All outputs saved to output/
